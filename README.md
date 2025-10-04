@@ -86,4 +86,6 @@ To ensure the MDR platform maintains its edge against increasingly sophisticated
 
 *A visualization showing the hunting results, TTP coverage, or the SOAR triage flow.*
 
-![Threat Hunting Dashboard showing query results mapped to MITRE ATT&CK tactics.](screenshots/mdr_hunting_dashboard.png)
+### 🖼️ Contextual Triage Dashboard
+
+![A mock-up dashboard showing a security alert alongside critical contextual data: MITRE ATT&CK mapping, Asset Criticality, and GeoIP location.](screenshots/triage_contextual_dashboard.jpg)
